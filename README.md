@@ -17,9 +17,9 @@
 
 ### Contact Me :
 
-<a href="https://github.com/SABRY200" target="_blank"><img src="https://img.shields.io/badge/-Mohamed Sabry-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/SABRY200" target="_blank"><img src="https://img.shields.io/badge/-Mohamed Sabry-0077B5?style=for-the-badge&logo=Github&logoColor=white"/></a>
 <a href="https://wa.me/+201278694124" target="_blank"><img src="https://img.shields.io/badge/-Mohamed Sabry-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-<a href="mailto:mohamedsabrydeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamed Sabry-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
+<a href="mailto:mohamedsabrydeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamed Sabry-EA2328?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 ### 🛠  Tech Stack
 
